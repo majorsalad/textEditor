@@ -6,13 +6,13 @@ Open the textEditor.java and run
 
 # features:
 - File
-  > New: Creates a new text file
-  > Save: Saves the current text to a new or existing text file
-  > Exit: Exits the application
+  > New: Creates a new text file ||
+  > Save: Saves the current text to a new or existing text file ||
+  > Exit: Exits the application ||
 - Edit
-  > Cut: Cuts the highlighted text
-  > Copy: Copies the highlighted text
-  > Paste: Pastes whatever was last cut or copied
+  > Cut: Cuts the highlighted text ||
+  > Copy: Copies the highlighted text ||
+  > Paste: Pastes whatever was last cut or copied ||
   
 # What I learned:
 - how to create a GUI with Java Swing
