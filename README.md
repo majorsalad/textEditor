@@ -8,11 +8,11 @@ Open the textEditor.java and run
 - File
   > New: Creates a new text file ||
   > Save: Saves the current text to a new or existing text file ||
-  > Exit: Exits the application ||
+  > Exit: Exits the application
 - Edit
   > Cut: Cuts the highlighted text ||
   > Copy: Copies the highlighted text ||
-  > Paste: Pastes whatever was last cut or copied ||
+  > Paste: Pastes whatever was last cut or copied
   
 # What I learned:
 - how to create a GUI with Java Swing
