@@ -4,7 +4,7 @@ A simple notepad application, that utilizes all of the basic functions within a 
 # How to use:
 Open the TextEditor.java w/ all of the other files in the same directory and run
 
-# features:
+# Features:
 - File
   > New: Creates a new text file ||
   > Save: Saves the current text to a new or existing text file ||
