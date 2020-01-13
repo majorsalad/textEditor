@@ -2,7 +2,7 @@
 A simple notepad application, that utilizes all of the basic functions within a text editor. 
 
 # How to use:
-Open the textEditor.java and run
+Open the TextEditor.java w/ all of the other files in the same directory and run
 
 # features:
 - File
